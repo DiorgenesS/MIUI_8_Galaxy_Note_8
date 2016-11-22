@@ -1,0 +1,3 @@
+post-build=samsung/kona3gxx/kona3g:4.4.4/KTU84P/N5100ZTCNL6:user/release-keys
+post-timestamp=1478501589
+pre-device=kona3g

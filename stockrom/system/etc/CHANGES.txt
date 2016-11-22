@@ -1,0 +1,74 @@
+===================================
+Since Sun Nov  6 01:41:08 UTC 2016
+===================================
+
+   * hardware/qcom/audio-caf/msm8937
+11a2544 hal: Allow building hardware audio encoders
+
+===================================
+Since Wed Nov  2 22:50:53 UTC 2016
+===================================
+
+   * device/qcom/sepolicy
+f297dd3 msm8937: Add context to recovery block device
+
+   * frameworks/base
+1722432 SystemUI: Fix possible NPE
+ce521ee services: battery: Don't blink with an hvdcp charger
+2d6cf0c bootanimation: enable multithread decode by default
+
+   * packages/apps/AudioFX
+f4fe364 Merge "AudioFX: Fix possible NPE" into cm-13.0
+26d0126 Merge "AudioFX: Fix possible RuntimeException" into cm-13.0
+b1c9efb AudioFX: Fix possible NPE
+
+   * packages/apps/CMFileManager
+1aea5a8 Properly upgrade DB.
+
+   * packages/apps/Snap
+537e522 Snap: Fix possible NPE
+beec60c Snap: Fix possible RuntimeException (due to NPE)
+
+   * vendor/cm
+cbc9b90 extract_utils: Add option to define the certificate for jars
+
+===================================
+Since Tue Nov  1 21:33:51 UTC 2016
+===================================
+
+   * packages/apps/Snap
+832a6b0 Fix off-by-one error in sub menu selection highlight.
+
+===================================
+Since Tue Nov  1 04:35:11 UTC 2016
+===================================
+
+   * hardware/qcom/audio-caf/msm8937
+689a72c hal: Haxed header
+
+   * packages/apps/CMFileManager
+740efc6 FileManager: Editor: Fix race on completion wait/notify
+
+   * cts
+f8774bc merge in marshmallow-cts-release history after reset to marshmallow-cts-dev
+4bdac62 Merge "DO NOT MERGE: disable tests that fail on some devices (Hammerhead)" into marshmallow-cts-dev
+
+===================================
+Since Mon Oct 31 02:39:02 UTC 2016
+===================================
+
+   * hardware/qcom/audio-caf/msm8916
+bc889dc Merge remote-tracking branch 'caf/LA.BR.1.2.6_rb1.18' into cm-13.0-caf-8916
+
+   * hardware/qcom/display-caf/msm8916
+58585c9 Merge remote-tracking branch 'caf/LA.BR.1.2.6_rb1.18' into cm-13.0-caf-8916
+
+   * hardware/qcom/media-caf/msm8916
+611f334 Merge remote-tracking branch 'caf/LA.BR.1.2.6_rb1.18' into cm-13.0-caf-8916
+
+   * packages/apps/Eleven
+a2325be Fix MediaSession queue handling.
+
+   * cts
+db17612 DO NOT MERGE: disable tests that fail on some devices (Hammerhead)
+
