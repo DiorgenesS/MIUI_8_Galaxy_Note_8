@@ -34,7 +34,7 @@ local-remove-apps   :=
 include phoneapps.mk
 
 #The certificate for release version
-local-certificate-dir := security
+#local-certificate-dir := security
 
 local-target-bit := 32
 
